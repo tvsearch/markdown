@@ -2,7 +2,7 @@
 ✍ 一个橙子微信 Markdown 编辑器| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、图床功能、一键下载文档、自定义 CSS 样式、一键重置等特性
 # 宝塔部署一个橙子微信编辑器，一个最好用的微信markdown编辑器
 
-软件合集：(https://ncnb18aqvfwn.feishu.cn/drive/folder/VrhmfhXRFljgLhdPyYVcnlnrnSg)[https://ncnb18aqvfwn.feishu.cn/drive/folder/VrhmfhXRFljgLhdPyYVcnlnrnSg]
+软件合集：[https://ncnb18aqvfwn.feishu.cn/drive/folder/VrhmfhXRFljgLhdPyYVcnlnrnSg](https://ncnb18aqvfwn.feishu.cn/drive/folder/VrhmfhXRFljgLhdPyYVcnlnrnSg)
 
 ![image](https://github.com/user-attachments/assets/462860f8-1cc3-437b-8e0c-870950993b64)
 
